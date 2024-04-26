@@ -50,10 +50,4 @@ A infraestrutura é como o palco por trás das cortinas:
 - Temos um servidor, que é como o computador central que faz o site funcionar.
 - E um banco de dados, que é onde guardamos todas as informações tipo numa estante digital super organizada.
 
-## Por Que MVC É Legal?
-- **Crescer é Fácil**: Se a gente quiser adicionar mais coisas no futuro, fica mais tranquilo.
-- **Arrumar Problemas**: Se algo quebrar, é mais fácil de achar onde tá o erro e consertar.
-- **Testar**: A gente pode verificar se cada parte tá funcionando direito separadamente.
-- **Mudar Sem Bagunçar**: Se a gente quiser mudar algo, é menos provável de estragar o que já tá funcionando.
-
-Escolhemos esse jeito porque é bom pra começar e ainda é forte o suficiente pra aguentar conforme a gente cresce.
+Buscamos sempre nos empenhar para seguir essa receita com o andamento do projeto
